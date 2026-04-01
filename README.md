@@ -10,3 +10,7 @@ Currently builtin functions are:
  - exit
 
 it can execute binaries located in $PATH and thats about it
+
+# Disclaimer
+
+maybe dont try to exit with ctrl+d
